@@ -126,6 +126,7 @@ ret
 ```
 ## Output
 <img width="738" height="509" alt="Screenshot 2025-08-21 133306" src="https://github.com/user-attachments/assets/8833d23a-2c57-4c48-8e1d-76f10f530c60" />
+
 ## AND alp
 ```
 org 100h
