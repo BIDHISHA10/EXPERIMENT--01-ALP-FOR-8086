@@ -161,6 +161,7 @@ hlt
 ## Output:
 <img width="755" height="508" alt="Screenshot 2025-08-21 133332" src="https://github.com/user-attachments/assets/6d6de159-c83e-40e0-9672-7f949e3f7a09" />
 
+## XOR alp
 ```
 MOV [SI+2],AX;
 MOV AX,0A32H;
