@@ -88,8 +88,9 @@ add ax,bx
 ret
 ```
 ## Output 
-<img width="1920" height="1080" alt="Screenshot 2025-08-18 140028" src="https://github.com/user-attachments/assets/7b4a4027-5c54-4514-ace1-d58de1f378e6" />
- 
+
+ <img width="789" height="463" alt="Screenshot 2025-08-21 133217" src="https://github.com/user-attachments/assets/dbd26127-0ac3-45da-ab7d-2842c7d52336" />
+
  
 ## Subtraction   of 16 bit numbers  ALP 
  ```
@@ -100,7 +101,8 @@ sub ax,bx
 ret
 ```
 ## Output  
-<img width="1920" height="1080" alt="Screenshot 2025-08-18 140028" src="https://github.com/user-attachments/assets/8a45f02a-dfe4-429b-bdb5-75315c8f1157" />
+
+<img width="757" height="459" alt="Screenshot 2025-08-21 133243" src="https://github.com/user-attachments/assets/de6809d0-783f-4cf2-bb5e-3a634eca13f6" />
 
 ## Multiplication alp 
 ```
@@ -111,8 +113,8 @@ mul bx
 ret
 ```
  ## Output  
+<img width="773" height="506" alt="Screenshot 2025-08-21 133256" src="https://github.com/user-attachments/assets/d5e15e6a-2835-42aa-9b2f-398fb8ed9dfe" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-18 142749" src="https://github.com/user-attachments/assets/e73fc20d-415f-44c1-94bd-9a3cdc93494e" />
 
 ## Division alp 
 ```
@@ -122,9 +124,8 @@ mov bx,43ebh
 div ax
 ret
 ```
-## Output  
-<img width="1920" height="1080" alt="Screenshot 2025-08-18 142553" src="https://github.com/user-attachments/assets/0342f681-afd5-42fa-ae3d-8108424e2d7d" />
-
+## Output
+<img width="738" height="509" alt="Screenshot 2025-08-21 133306" src="https://github.com/user-attachments/assets/8833d23a-2c57-4c48-8e1d-76f10f530c60" />
 ## AND alp
 ```
 org 100h
@@ -134,7 +135,7 @@ mov [0040h+02],bx;
 hlt
 ```
 ## Output:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c815258-bcfb-4bd7-8767-b2774c3a9e78" />
+<img width="745" height="515" alt="Screenshot 2025-08-21 133314" src="https://github.com/user-attachments/assets/2e656b69-90b2-46a7-837a-2c89aafcf279" />
 
 ## OR alp
 ```
@@ -144,7 +145,8 @@ MOV BX,0B13H;
 OR AX,BX;
 ```
 ## Output:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/213d25b6-db1f-4e73-8f88-8518bd7531bf" />
+
+<img width="772" height="514" alt="Screenshot 2025-08-21 133323" src="https://github.com/user-attachments/assets/7963d841-ec3e-4b1a-9a7a-151e166d1d42" />
 
 ## NOT
 ```
@@ -156,9 +158,8 @@ mov [0040h+04],ax;
 hlt
 ```
 ## Output:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e84e7b40-05d6-4205-bdae-7b04b5ecd51b" />
+<img width="755" height="508" alt="Screenshot 2025-08-21 133332" src="https://github.com/user-attachments/assets/6d6de159-c83e-40e0-9672-7f949e3f7a09" />
 
-## XOR alp
 ```
 MOV [SI+2],AX;
 MOV AX,0A32H;
@@ -166,8 +167,8 @@ MOV BX,0B13H;
 XOR AX,BX;
 ```
 ## Output:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e493315f-dca4-4dec-bcaa-298b62a53ebd" />
 
+<img width="762" height="511" alt="Screenshot 2025-08-21 133341" src="https://github.com/user-attachments/assets/636a2ff3-cd73-4b44-bcb3-dfe6dc900d2e" />
 
 ## Result :
  
